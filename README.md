@@ -23,6 +23,10 @@ Feel free to reach out to me via [Email](pranavky87@gmail.com) or connect with m
 
 # 💻 Tech Stack:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![HTML](https://img.shields.io/badge/HTML-red)
+![CSS](https://img.shields.io/badge/CSS-rgreen?logo=html&logocolor=white)
+![MsExcel](https://img.shields.io/badge/MSExcel-013220)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gitpranav87&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gitpranav87&theme=radical&hide_border=false)<br/>
