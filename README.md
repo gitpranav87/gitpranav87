@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @gitpranav87
+# 👋 Hi, I'm Pranav!
 
 Welcome to my GitHub profile! I'm an aspiring Data Scientist passionate about leveraging data to gain valuable insights and solve real-world problems.
 
