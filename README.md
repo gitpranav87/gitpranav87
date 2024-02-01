@@ -1,15 +1,15 @@
 # 💫 About Me:
 🌱 I’m currently learning Advanced Machine Learning techniques, Big Data technologies, Deep Learning frameworks<br>👯 I'm open to collaborating on projects of Data Science, Machine Learning & projects involving the analysis and interpretation of data.<br>🔭 I'm interested in Data Science, Machine Learning, Artificial Intelligence, Python Programming, Data Visualization<br>💬 Ask me about SQL, EXCEL, POWER-BI, TABLEAU, PYTHON, PANDAS
 
-📚 Avid Reader & Poetry Lover:-
+📚 Avid Reader & Poetry Lover :-
 
 When I'm not coding, you can find me immersed in the world of literature. I'm an avid reader, particularly enjoying poetry that adds a touch of art to words.
 
-🎶 Old Music Enthusiast:-
+🎶 Old Music Enthusiast :-
 
 I have a deep appreciation for old music that transcends time. From classics to forgotten gems, I enjoy the melodies that echo through the ages.
 
-🏏 Cricket Fan:-
+🏏 Cricket Fan :-
 
 Cricket is not just a sport for me; it's a passion. Whether following international matches or playing a casual game, cricket brings excitement and companionship.
 
