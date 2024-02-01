@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Advanced Machine Learning techniques, Big Data technologies, Deep Learning frameworks<br>👯 I'm open to collaborating on projects related to Data Science, Machine Learning, and any exciting projects that involve analyzing and interpreting data.<br>🔭 I'm interested in Data Science, Machine Learning, Artificial Intelligence, Python Programming, Data Visualization<br>💬 Ask me about SQL, EXCEL, POWER-BI, TABLEAU, PYTHON, PANDAS
+🌱 I’m currently learning Advanced Machine Learning techniques, Big Data technologies, Deep Learning frameworks<br>👯 I'm open to collaborating on projects related to Data Science, Machine Learning, and any projects that involve analyzing and interpreting data.<br>🔭 I'm interested in Data Science, Machine Learning, Artificial Intelligence, Python Programming, Data Visualization<br>💬 Ask me about SQL, EXCEL, POWER-BI, TABLEAU, PYTHON, PANDAS
 
 
 ## 🌐 Socials:
